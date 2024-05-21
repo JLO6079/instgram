@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674611003922",
+    "project_id": "lolinsta",
+    "storage_bucket": "lolinsta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674611003922:android:08e9dbbe4e5267f2964ecb",
+        "android_client_info": {
+          "package_name": "com.example.lol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgu3wEw2HiKt7tswH9mk7Nzx4DVoGoCwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
